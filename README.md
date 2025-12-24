@@ -1,4 +1,4 @@
-m👨‍💻 About Me:
+👨‍💻 About Me:
 
 🔭 I’m currently working on Front-End Projects
 
