@@ -1,4 +1,4 @@
-👨‍💻 About Me:
+m👨‍💻 About Me:
 
 🔭 I’m currently working on Front-End Projects
 
@@ -12,4 +12,10 @@
 
 ⚡ Fun fact: I love learning new design trends!
 
+🧠 Currently Learning:
 
+React.js
+
+Tailwind CSS
+
+Git & GitHub
