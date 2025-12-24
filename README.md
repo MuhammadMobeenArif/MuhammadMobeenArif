@@ -19,3 +19,6 @@ React.js
 Tailwind CSS
 
 Git & GitHub
+
+🛠️ Languages and Tools:
+<img width="442" height="48" alt="image" src="https://github.com/user-attachments/assets/d8b8c49a-175d-4e11-864b-fdc9a0797560" />
