@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @MuhammadMobeenArif
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👨‍💻 About Me:
+🔭 I’m currently working on Front-End Projects
+🌱 I’m currently learning React.js & Tailwind CSS
+👯 I’m looking to collaborate on Open Source Web Projects
+💬 Ask me about HTML, CSS, JavaScript
+📫 How to reach me: mobeenarif13@gmail.com
+⚡ Fun fact: I love learning new design trends!
 
-<!---
-MuhammadMobeenArif/MuhammadMobeenArif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
